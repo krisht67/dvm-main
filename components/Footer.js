@@ -15,7 +15,7 @@ const Footer = () => {
             value={{ size: '3em', className: 'global-class-name' }}
           >
             <Link
-              href="https://github.com/emharsha1812/voting-blockchain"
+              href="https://github.com/krisht67/dvm-main"
               target="_blank"
               rel="noopener noreferrer"
             >
